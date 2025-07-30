@@ -1,4 +1,4 @@
-// File: /Users/macbook/Desktop/practice/egg/app/page.tsx
+// File: /Users/macbook/Desktop/me/egg-project/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
